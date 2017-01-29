@@ -103,3 +103,8 @@
     .active {
       background-color: red;
     }
+    
+    ul.header li:active {
+      background: red;
+      height: 20px;
+    }
